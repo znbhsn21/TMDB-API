@@ -82,3 +82,4 @@ python main.py --type top
 This project is for educational and personal use.
 TMDb API usage is subject to TMDb's Terms of Service.
 
+https://roadmap.sh/projects/tmdb-cli
